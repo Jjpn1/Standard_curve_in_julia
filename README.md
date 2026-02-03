@@ -11,4 +11,4 @@ Instructions on how to use:
 5. Type add Pluto
 6. Press the backspace key
 7. Type import Pluto
-8. Type Pluto.run() and open this file.
+8. Type Pluto.run() and run the standard_curve.jl
