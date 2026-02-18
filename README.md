@@ -1,5 +1,5 @@
 # Standard_curve_in_julia
-A Pluto notebook to create Standard curves for Spectroscopy written in Julia.
+A Pluto notebook to create Standard curves for Spectrophotometry written in Julia.
 
 This is a Pluto.jl notebook
 
