@@ -2,6 +2,7 @@
 A Pluto notebook to create Standard curves for Spectrophotometry written in Julia.
 
 Run on Google Collab: https://colab.research.google.com/drive/1EhjrI8Tz3P7SM_JR5GdOJ-CXdqOnhMiq#scrollTo=TcJZqdHyNfTC
+(This is only for the Absorbance vs Concentration)
 
 This is a Pluto.jl notebook
 
